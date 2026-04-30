@@ -1,5 +1,5 @@
 window.RANKING_DATA = {
-  "updatedAt": "2026-04-30T05:36:43.256Z",
+  "updatedAt": "2026-04-30T08:16:25.789Z",
   "players": [
     {
       "name": "chadlu3",
@@ -19,12 +19,12 @@ window.RANKING_DATA = {
       "riotId": "caomlomo1#LATE",
       "tier": "EMERALD",
       "rank": "IV",
-      "lp": 11,
-      "games": 430,
+      "lp": 0,
+      "games": 431,
       "wins": 220,
-      "losses": 210,
-      "winRate": 51.162790697674424,
-      "points": 2011,
+      "losses": 211,
+      "winRate": 51.04408352668214,
+      "points": 2000,
       "url": "https://www.leagueofgraphs.com/summoner/lan/caomlomo1-LATE"
     },
     {
@@ -45,12 +45,12 @@ window.RANKING_DATA = {
       "riotId": "Xylon#VIX",
       "tier": "PLATINUM",
       "rank": "IV",
-      "lp": 14,
-      "games": 204,
+      "lp": 0,
+      "games": 205,
       "wins": 106,
-      "losses": 98,
-      "winRate": 51.9607843137255,
-      "points": 1614,
+      "losses": 99,
+      "winRate": 51.707317073170735,
+      "points": 1600,
       "url": "https://www.leagueofgraphs.com/summoner/lan/Xylon-VIX"
     }
   ]
