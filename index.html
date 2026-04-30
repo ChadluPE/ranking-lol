@@ -1,0 +1,36 @@
+<!doctype html>
+<html lang="es">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Ranking Elo | League of Graphs</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@500;600;700;800&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <main class="shell">
+      <section class="ranking-table" aria-live="polite">
+        <div class="table-header">
+          <span>Posicion</span>
+          <span>Jugador</span>
+          <span>Elo</span>
+          <span>Juegos</span>
+          <span>W/L</span>
+          <span>Win Rate</span>
+          <span>Puntos</span>
+          <span>Links</span>
+        </div>
+        <div id="rankingRows"></div>
+      </section>
+      <p id="updatedAt" class="updated-at"></p>
+    </main>
+
+    <script src="data/ranking.js"></script>
+    <script src="script.js"></script>
+  </body>
+</html>
