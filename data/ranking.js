@@ -1,5 +1,5 @@
 window.RANKING_DATA = {
-  "updatedAt": "2026-06-01T20:15:16.778Z",
+  "updatedAt": "2026-06-01T23:00:20.070Z",
   "players": [
     {
       "name": "chj7",
